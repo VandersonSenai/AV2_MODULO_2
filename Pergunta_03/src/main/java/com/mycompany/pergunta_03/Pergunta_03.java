@@ -63,8 +63,6 @@ public class Pergunta_03 {
             }
              
         }
-
         
-        System.out.println("Hello World!");
     }
 }

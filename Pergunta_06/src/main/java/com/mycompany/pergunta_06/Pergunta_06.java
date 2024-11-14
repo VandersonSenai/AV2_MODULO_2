@@ -39,6 +39,5 @@ public class Pergunta_06 {
                     "Soma = " + (soma)+"\n"+
                     "Quantidade de números digitados = " + (contator)+"\n",
                     "", JOptionPane.INFORMATION_MESSAGE);
-        System.out.println("Hello World!");
-    }
+         }
 }
